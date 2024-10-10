@@ -1,0 +1,55 @@
+table td img {
+  width: 100px;
+  height: 100px;
+}
+
+table td img {
+  width: 100px;
+  height: 100px;
+}
+
+.tox-tinymce {
+  width: 50%;
+  margin: 20px;
+}
+
+input[type=text] {
+  margin: 20px;
+  width: 30%;
+  height: 25px;
+}
+
+.buttons{
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  width: 50%;
+}
+
+input[type=submit] {
+  margin: 20px;
+  margin-right: 5px;
+  width: 90px;
+  height: 45px;
+}
+
+input[type=button] {
+  margin: 20px;
+  margin-left: 5px;
+  width: 90px;
+  height: 45px;
+}
+
+table{
+  margin: 20px;
+  width: 50%;
+}
+
+table th{
+  padding: 10px;
+}
+
+table td{
+  padding: 7px;
+}
