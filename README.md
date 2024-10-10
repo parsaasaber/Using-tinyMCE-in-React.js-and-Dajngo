@@ -61,3 +61,5 @@ The main component, `App`, handles:
 * `handleEditorChange`: Updates the content state when the editor's content changes.
 * `handleSubmit`: Handles form submission, sanitizes the content, and sends a POST request to the server.
 * `useEffect`: Fetches the item data on component mount and after submission.# Using-tinyMCE-in-React.js-and-Dajngo
+
+If you had any complications or struggles with this project, feel free to check out my [Mediun Article](https://medium.com/@parsa.saber2004/building-a-full-stack-rich-text-editor-with-react-tinymce-and-django-473c8c50b155). You can find the wole roadmap and explanations there.
